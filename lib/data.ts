@@ -146,6 +146,13 @@ export const projects: Project[] = [
     tech: [".NET", "PostgreSQL"],
     github: "https://github.com/AyushDeuja/leave-management-api",
   },
+  {
+    title: "LilamBazzar-API: Auction and E-commerce Platform",
+    description:
+      "A platform for conducting auctions and managing e-commerce operations.",
+    tech: ["NestJS", "PostgreSQL"],
+    github: "https://github.com/AyushDeuja/LilamBazzar",
+  },
 ];
 
 export const education = [
