@@ -35,11 +35,17 @@ export const skillGroups = [
   },
   {
     title: "Databases",
-    skills: ["PostgreSQL", "MongoDB"],
+    skills: ["PostgreSQL", "MongoDB", "MySQL"],
   },
   {
     title: "Tools & Teaching",
-    skills: ["Git & GitHub", "Python", "MIT App Inventor", "Scratch"],
+    skills: [
+      "Git & GitHub",
+      "Robotics & IoT",
+      "Python",
+      "MIT App Inventor",
+      "Scratch",
+    ],
   },
 ];
 
