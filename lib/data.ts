@@ -153,9 +153,9 @@ export const projects: Project[] = [
     github: "https://github.com/AyushDeuja/leave-management-api",
   },
   {
-    title: "LilamBazzar-API: Auction and E-commerce Platform",
+    title: "LilamBazzar: Auction and E-commerce Platform",
     description:
-      "A platform for conducting auctions and managing e-commerce operations.",
+      "A fullstack platform for conducting auctions and managing e-commerce operations.",
     tech: ["NestJS", "PostgreSQL"],
     github: "https://github.com/AyushDeuja/LilamBazzar",
   },
